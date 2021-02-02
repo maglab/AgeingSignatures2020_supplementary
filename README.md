@@ -20,7 +20,7 @@ Table S2. Tau scores for the GTEx dataset and their association results with thi
 Tables S3-S6. Genes overexpressed with age (p<0.05) in the global, brain, heart and muscle analyses.\
 Tables S7-S10. Genes underexpressed with age (p<0.05) in the global, brain, heart and muscle analyses.\
 Tables S11-S18. Enrichment analysis results for the global, brain, heart and muscle analyses.\
-Tables S19-S26. Enrichment analysis results for the global, brain, heart and muscle analyses.\
+Tables S19-S26. Random forest results for the global, brain, heart and muscle analyses.\
 Table S27. Gene lists at the intersections of the tissue specific analyses.
 
 **Supplementary Datasets**\
